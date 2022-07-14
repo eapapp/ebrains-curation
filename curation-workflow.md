@@ -7,6 +7,12 @@
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
 
 
+## Curation validation
+
+ - [Template](https://docs.google.com/document/d/1bCQyJEJ3uusgaJPYw5vjnTUQkPtQwnX6YLLA62Rcotk/edit): make a copy
+ - [Internal curation collab](https://drive.ebrains.eu/library/47995dbc-f576-4008-a76c-eefbfd818529/HBP%20Data%20Curation%20-%20Internal/CW3.0%20Dataset%20specific%20documents): add documents (CR, DD)
+
+
 ## GitLab
 
  - [Curation Workflow 3.0](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/wikis/1.-Curation-workflow-3.0)
