@@ -27,7 +27,7 @@
    - [All submissions](https://nettskjema.no/user/form/submission/list.html?id=224765)
 
 
-# Metadata Wizard
+## Metadata Wizard
 
 https://metadata-wizard.apps.hbp.eu/
 
