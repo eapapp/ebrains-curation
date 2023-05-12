@@ -2,6 +2,7 @@
 
 ## Collab and buckets
 
+ - [Curation workflow collab](https://wiki.ebrains.eu/bin/view/Collabs/curation-workflow)
  - [Identity Manager](https://wiki.ebrains.eu/bin/view/Identity/#/users/): find out if a DP has an EBRAINS user or not
  - [Find an existing collab](https://wiki.ebrains.eu/bin/view/Collabs)
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
