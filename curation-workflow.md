@@ -30,5 +30,6 @@
 
 ## Metadata Wizard
 
-https://metadata-wizard.apps.hbp.eu/
+NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
 
+OLD: https://metadata-wizard.apps.hbp.eu/
