@@ -4,8 +4,10 @@
 
  - [Curation workflow collab](https://wiki.ebrains.eu/bin/view/Collabs/curation-workflow)
  - [Identity Manager](https://wiki.ebrains.eu/bin/view/Identity/#/users/): find out if a DP has an EBRAINS user or not
+ - [IAM profile](https://iam.ebrains.eu/auth/realms/hbp/account/): change password etc.
  - [Find an existing collab](https://wiki.ebrains.eu/bin/view/Collabs)
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
+ - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): for monitoring curation progress
 
 
 ## Curation validation
@@ -16,7 +18,7 @@
 
 ## GitLab
 
- - [Curation Workflow 3.0](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/wikis/1.-Curation-workflow-3.0)
+ - OLD [Curation Workflow 3.0](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/wikis/1.-Curation-workflow-3.0)
 
 
 ## Nettskjema
