@@ -9,6 +9,10 @@
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
  - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): for monitoring curation progress
 
+## CSCS
+
+ - Dashboard: [castor.cscs.ch](https://castor.cscs.ch/)
+
 
 ## Curation validation
 
