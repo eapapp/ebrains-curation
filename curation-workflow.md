@@ -28,6 +28,8 @@
  - [Issues](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/issues)
  - OLD [Curation Workflow 3.0](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/wikis/1.-Curation-workflow-3.0)
 
+## KG
+ - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
 
 ## Nettskjema
 
