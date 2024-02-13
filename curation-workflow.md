@@ -27,7 +27,9 @@
 
  - [Issues](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/issues)
  - OLD [Curation Workflow 3.0](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/wikis/1.-Curation-workflow-3.0)
- - [Tech coordination](https://gitlab.ebrains.eu/ri/tech-hub) - Meeting notes [here](https://gitlab.ebrains.eu/ri/tech-hub/coordination/meetings/-/wikis/Home/Technical-Coordination)
+ - [Tech coordination](https://gitlab.ebrains.eu/ri/tech-hub)
+   - Meeting notes [here](https://gitlab.ebrains.eu/ri/tech-hub/coordination/meetings/-/wikis/Home/Technical-Coordination)
+   - Random ideas or issues that do not fit into other topics: [IssueBonanza](https://gitlab.ebrains.eu/ri/tech-hub/issue-bonanza/-/issues)
 
 ## KG
  - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
