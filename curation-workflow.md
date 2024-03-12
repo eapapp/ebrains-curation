@@ -1,10 +1,9 @@
 # Links related to the EBRAINS curation workflow
 
-## Collab and buckets
+## Collab
 
  - [Curation workflow collab](https://wiki.ebrains.eu/bin/view/Collabs/curation-workflow)
- - [Identity Manager](https://wiki.ebrains.eu/bin/view/Identity/#/users/): find out if a DP has an EBRAINS user or not
- - [IAM profile](https://iam.ebrains.eu/auth/realms/hbp/account/): change password etc.
+ - [Internal curation collab](https://wiki.ebrains.eu/bin/view/Collabs/hbp-data-curation)
  - [Find an existing collab](https://wiki.ebrains.eu/bin/view/Collabs)
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
  - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): for monitoring curation progress
@@ -12,7 +11,6 @@
 ## CSCS
 
  - Dashboard: [castor.cscs.ch](https://castor.cscs.ch/)
-
 
 ## Curation validation
 
@@ -31,6 +29,11 @@
  - [Tech coordination](https://gitlab.ebrains.eu/ri/tech-hub)
    - Meeting notes [here](https://gitlab.ebrains.eu/ri/tech-hub/coordination/meetings/-/wikis/Home/Technical-Coordination)
    - Random ideas or issues that do not fit into other topics: [IssueBonanza](https://gitlab.ebrains.eu/ri/tech-hub/issue-bonanza/-/issues)
+
+## IAM
+
+ - [Identity Manager](https://wiki.ebrains.eu/bin/view/Identity/#/users/): find out if a DP has an EBRAINS user or not
+ - [IAM profile](https://iam.ebrains.eu/auth/realms/hbp/account/): change password etc.
 
 ## KG
  - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
