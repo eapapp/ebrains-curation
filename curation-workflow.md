@@ -6,7 +6,7 @@
  - [Internal curation collab](https://wiki.ebrains.eu/bin/view/Collabs/hbp-data-curation)
  - [Find an existing collab](https://wiki.ebrains.eu/bin/view/Collabs)
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
- - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): for monitoring curation progress
+ - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): monitoring curation progress (see also scripts in Drive)
 
 ## CSCS
 
