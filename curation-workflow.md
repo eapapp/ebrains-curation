@@ -21,6 +21,10 @@
 
  - Check if a DOI is registered in CrossRef: https://api.crossref.org/works/...
 
+## Etherpad
+
+Public: https://etherpad.wikimedia.org/
+
 ## GitLab
 
  - [T4.2 issue board](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/boards/59)
