@@ -50,6 +50,9 @@ Public: https://etherpad.wikimedia.org/
    - Link to form: https://nettskjema.no/a/224765
    - [All submissions](https://nettskjema.no/user/form/submission/list.html?id=224765)
 
+## openMINDS
+
+https://openminds-documentation.readthedocs.io/
 
 ## Metadata Wizard
 
