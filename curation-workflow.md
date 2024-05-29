@@ -18,6 +18,10 @@
  - [Template](https://docs.google.com/document/d/1bCQyJEJ3uusgaJPYw5vjnTUQkPtQwnX6YLLA62Rcotk/edit): make a copy
  - [Internal curation collab](https://drive.ebrains.eu/library/47995dbc-f576-4008-a76c-eefbfd818529/HBP%20Data%20Curation%20-%20Internal/CW3.0%20Dataset%20specific%20documents): add documents (CR, DD)
 
+## Data proxy
+
+ - [API Docs](https://data-proxy.ebrains.eu/api/docs)
+
 ## DOI
 
  - Check if a DOI is registered in CrossRef: https://api.crossref.org/works/...
