@@ -47,6 +47,14 @@ Public: https://etherpad.wikimedia.org/
 ## KG
  - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
 
+## Metadata Wizard
+
+NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
+
+OLD: https://metadata-wizard.apps.hbp.eu/
+
+Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
+
 ## Nettskjema
 
  - [All forms](https://nettskjema.no/user/form)
@@ -58,11 +66,3 @@ Public: https://etherpad.wikimedia.org/
 ## openMINDS
 
 https://openminds-documentation.readthedocs.io/
-
-## Metadata Wizard
-
-NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
-
-OLD: https://metadata-wizard.apps.hbp.eu/
-
-Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
