@@ -43,6 +43,9 @@ Public: https://etherpad.wikimedia.org/
 
  - [Identity Manager](https://wiki.ebrains.eu/bin/view/Identity/#/users/): find out if a DP has an EBRAINS user or not
  - [IAM profile](https://iam.ebrains.eu/auth/realms/hbp/account/): change password etc.
+ - Status of services:
+   - [EBRAINS](https://status.ebrains.eu/status/all/)
+   - [JSC Cloud](https://status.jsc.fz-juelich.de/services/44)
 
 ## KG
  - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
