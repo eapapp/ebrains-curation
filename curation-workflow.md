@@ -46,6 +46,7 @@ Public: https://etherpad.wikimedia.org/
  - Status of services:
    - [EBRAINS](https://status.ebrains.eu/status/all/)
    - [JSC Cloud](https://status.jsc.fz-juelich.de/services/44)
+   - [HumanBrainProject (old)](https://status.humanbrainproject.eu/)
 
 ## KG
  - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
