@@ -53,11 +53,15 @@ Public: https://etherpad.wikimedia.org/
 
 ## Metadata Wizard
 
-NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
-
-OLD: https://metadata-wizard.apps.hbp.eu/
+https://metadata-wizard.apps.ebrains.eu/
 
 Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
+
+### OLD - Human Brain Project links
+ - NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
+ - OLD: https://metadata-wizard.apps.hbp.eu/
+
+
 
 ## Nettskjema
 
