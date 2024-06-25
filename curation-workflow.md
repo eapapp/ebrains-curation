@@ -53,7 +53,8 @@ Public: https://etherpad.wikimedia.org/
 
 ## Metadata Wizard
 
-https://metadata-wizard.apps.ebrains.eu/
+ - Prod: https://metadata-wizard.apps.ebrains.eu/
+ - Dev: https://metadata-wizard-dev.apps.ebrains.eu/
 
 Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
 
