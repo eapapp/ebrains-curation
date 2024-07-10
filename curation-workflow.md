@@ -26,6 +26,10 @@
 
  - Check if a DOI is registered in CrossRef: https://api.crossref.org/works/...
 
+## EBRAINS Handbook
+
+[https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/](https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/)
+
 ## Etherpad
 
 Public: https://etherpad.wikimedia.org/
