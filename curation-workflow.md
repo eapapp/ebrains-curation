@@ -8,6 +8,7 @@
  - [Create a new collab](https://wiki.ebrains.eu/bin/view/Collabs?clbaction=create)
  - [Data sharing collab template](https://wiki.ebrains.eu/bin/view/Collabs/data-sharing-collab-template/): monitoring curation progress (see also scripts in Drive)
  - [Collab API](https://wiki.ebrains.eu/bin/view/Collabs/the-collaboratory/Documentation%20Wiki/API/)
+ - [Guest accounts](https://wiki.ebrains.eu/bin/view/Collabs/the-collaboratory/Documentation%20IAM/FAQ/Guest%20Accounts/)
 
 ## CSCS
 
