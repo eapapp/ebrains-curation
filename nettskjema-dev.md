@@ -1,11 +1,11 @@
-# Nettskjema forms
+## Nettskjema forms
 
 - All forms: https://nettskjema.no/user/form
   - EBRAINS Curation Request Form
   - Request for externally hosted datasets
   - Ethics Compliance Survey (not needed for new requests, merged)
 
-# Nettskjema API
+## Nettskjema API
 
 - v3 endpoints https://api.nettskjema.no/v3/swagger-ui/index.html
 - v3 API clients and authentication https://www.uio.no/tjenester/it/adm-app/nettskjema/hjelp/api-clients-v3.md
@@ -15,3 +15,8 @@
 ## Relevant GitLab issues (T4.2)
 
 - [#163](https://gitlab.ebrains.eu/kanban/curators/ebrains-curation-team/-/issues/163) Nettskjema auth / v3 API migration 
+
+## Existing code
+
+- [Eszter's scripts](https://github.com/eapapp/nettskjema)
+- [Eivind's client](https://github.com/ehennestad/Data-Sharing-Collab-Scripts/blob/main/src/dsc/web_service/nettskjema/nettskjema_api_client.py)
