@@ -9,6 +9,7 @@
 ## WP4 Tasks
 - Task 4.1 Data and metadata models, controlled vocabularies, and ontologies (EBRAINS AISBL)
 - **Task 4.2 Tools and workflows for data and metadata life cycle management (UiO)**
+  - [T4.2 GitLab issue board](https://gitlab.ebrains.eu/kanban/curators/ebrains-curation-team/-/boards/412)
 - Task 4.3 Integration of workflows for data pre-processing, analysis and visualisation (CNRS)
 - Task 4.4 Data management in compliance with EU data protection requirements (Charité)
 - Task 4.5 Showcasing selected categories of data for demonstrating platform capabilities (UiO)
