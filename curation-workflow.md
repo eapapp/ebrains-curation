@@ -34,9 +34,8 @@
 
 ## Etherpad
 
-EBRAINS: https://notes.ebrains.eu/
-
-Public: https://etherpad.wikimedia.org/
+ - EBRAINS: https://notes.ebrains.eu/
+ - Public: https://etherpad.wikimedia.org/
 
 ## GitLab
 
@@ -56,9 +55,6 @@ Public: https://etherpad.wikimedia.org/
    - [JSC Cloud](https://status.jsc.fz-juelich.de/services/44)
    - [HumanBrainProject (old)](https://status.humanbrainproject.eu/)
 
-## KG
- - [Swagger](https://core.kg.ebrains.eu/swagger-ui/index.html)
-
 ## Metadata Wizard
 
  - Prod: https://metadata-wizard.apps.ebrains.eu/
@@ -70,8 +66,6 @@ Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
  - NEW: https://ebrains-metadata-wizard.apps.hbp.eu/
  - OLD: https://metadata-wizard.apps.hbp.eu/
 
-
-
 ## Nettskjema
 
  - [All forms](https://nettskjema.no/user/form)
@@ -80,7 +74,3 @@ Rancher example: https://meshview.apps.tc.humanbrainproject.eu/
  - EBRAINS Ethics Compliance Survey:
    - Link to form: https://nettskjema.no/a/224765
    - [All submissions](https://nettskjema.no/user/form/submission/list.html?id=224765)
-
-## openMINDS
-
-https://openminds-documentation.readthedocs.io/
