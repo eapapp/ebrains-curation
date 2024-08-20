@@ -1,3 +1,10 @@
+# Nettskjema forms
+
+- All forms: https://nettskjema.no/user/form
+  - EBRAINS Curation Request Form
+  - Request for externally hosted datasets
+  - Ethics Compliance Survey (not needed for new requests, merged)
+
 # Nettskjema API
 
 - v3 endpoints https://api.nettskjema.no/v3/swagger-ui/index.html
