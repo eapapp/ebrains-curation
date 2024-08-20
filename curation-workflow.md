@@ -34,6 +34,8 @@
 
 ## Etherpad
 
+EBRAINS: https://notes.ebrains.eu/
+
 Public: https://etherpad.wikimedia.org/
 
 ## GitLab
