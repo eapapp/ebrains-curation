@@ -23,6 +23,7 @@
 ## Data proxy
 
  - [API Docs](https://data-proxy.ebrains.eu/api/docs)
+ - [DD bucket for restricted access data](https://data-proxy.ebrains.eu/data-descriptors-common)
 
 ## DOI
 
