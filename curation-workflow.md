@@ -38,6 +38,10 @@
  - EBRAINS: https://notes.ebrains.eu/
  - Public: https://etherpad.wikimedia.org/
 
+## GitHub - UiO
+
+ - https://github.uio.no
+
 ## GitLab
 
  - [T4.2 issue board](https://kanban.ebrains.eu/curators/ebrains-curation-team/-/boards/59)
