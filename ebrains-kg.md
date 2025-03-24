@@ -6,6 +6,12 @@
  - KG documentation: https://docs.kg.ebrains.eu/
  - KG REST API: https://core.kg.ebrains.eu/
 
+# Jupyter notebooks
+
+E.g. for trying out regex patterns for file bundles
+
+https://wiki.ebrains.eu/bin/view/Collabs/ebrains-kg-scripts
+
 # Interacting with openMINDS metadata in the KG
 
  - openMINDS documentation: https://openminds-documentation.readthedocs.io/
