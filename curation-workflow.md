@@ -29,6 +29,10 @@
 
  - Check if a DOI is registered in CrossRef: https://api.crossref.org/works/...
 
+## EBRAINS 2.0 SharePoint
+
+ - [EBRAINS Visual Identity and Communications Assets](https://ebrainsaisbl.sharepoint.com/sites/EBRAINS2.061/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FEBRAINS2%2E061%2FShared%20Documents%2FResources%2FEBRAINS%20Visual%20Identity%20%26%20Communications%20Assets%2FReady%2Dto%2Dprint%20communications%20material&viewid=58b5d7dc%2Dd280%2D4f2e%2D87ea%2D7bb19d9dda95&csf=1&web=1&e=K7f1ui&CID=9cb41d71%2D30a1%2D46cb%2Dac37%2D52572b8ddf8d&FolderCTID=0x0120006C0F130CA8417D4DA9150AA20EF58621)
+
 ## EBRAINS Handbook
 
 [https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/](https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/)
