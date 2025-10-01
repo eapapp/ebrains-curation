@@ -5,6 +5,11 @@
 
 Main repo: https://github.com/openMetadataInitiative
 
+Add new content types: 
+- https://github.com/openMetadataInitiative/openMINDS_instances/issues
+- https://github.com/openMetadataInitiative/openMINDS_instances/tree/main/instances/latest/contentTypes
+
+
 ## BIDS to openMINDS converter
 
 GitHub repo: 
