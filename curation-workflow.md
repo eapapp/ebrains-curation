@@ -37,6 +37,7 @@
 
  - EBRAINS Handbook [https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/](https://th-dev.apps.rke2-1-dev-adacloud.tc.humanbrainproject.eu/)
  - EBRAINS CodeMeta Generator [https://codemeta.apps.ebrains.eu/](https://codemeta.apps.ebrains.eu/)
+ - CodeMeta example [https://github.com/Neural-Systems-at-UIO/CreateZoom/blob/main/codemeta.json](https://github.com/Neural-Systems-at-UIO/CreateZoom/blob/main/codemeta.json)
 
 ## Etherpad
 
