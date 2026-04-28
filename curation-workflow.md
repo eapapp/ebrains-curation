@@ -15,6 +15,11 @@
 
  - Dashboard: [castor.cscs.ch](https://castor.cscs.ch/)
 
+## Curation-related online tools
+
+- [Codemeta generator](https://codemeta.apps.ebrains.eu/)
+- [Curation tools from Andrew](https://curation-tools.apps.ebrains.eu/) e.g. finding duplicates
+
 ## Curation validation
 
  - [Template](https://docs.google.com/document/d/1bCQyJEJ3uusgaJPYw5vjnTUQkPtQwnX6YLLA62Rcotk/edit): make a copy
